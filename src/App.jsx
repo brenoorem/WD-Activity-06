@@ -22,7 +22,7 @@ function App() {
                 <div className="w-3/5 h-4/6 bg-[#283618] rounded-[1.2vw]">
                   <div className="flex flex-col h-full justify-center items-center font-serif">
                     <div className=" text-[#fefae0] text-8xl">
-                      <h1>Desennvolvimento Web</h1>
+                      <h1>Desenvolvimento Web</h1>
                     </div>
                     <div className="text-[#e2dec1] text-7xl">
                       <h2>Tarefa 06</h2>
